@@ -28,7 +28,7 @@ The plugin supports currently the filtering of post, taxonomy and comments.
 ]
 ```
 
-#### Result for taxonomy: `p-json/wp/v2/taxonomies/category?_wp_json_nonce=4355d0c4b3&items=name,slug,types`.
+#### Result for taxonomy: `wp-json/wp/v2/taxonomies/category?_wp_json_nonce=4355d0c4b3&items=name,slug,types`.
 ```json
 {
 	"name": "Categories",
